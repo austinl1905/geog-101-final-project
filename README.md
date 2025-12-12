@@ -17,5 +17,4 @@ We summarized the most important data, including the casualties (death toll/inju
 
 The goal of this project was to highlight not just the regions that are hazard zones for earthquakes and Volcanos, but also the slowest to recover and prepare for them. It will also illustrate how geography shapes hazard exposure and why some populations are more vulnerable. This can help users understand the importance of providing aid to countries that need it to better prepare their populations and infrastructure for these events.
 
-- [Presentation Link](GEOG 101 Earthquakes and Volcanoes.pdf)
 - [StoryMap Link](https://arcg.is/Cqbr13)
